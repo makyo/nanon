@@ -12,7 +12,7 @@ title: Examples
 3. Nanonier esles tho eslas, "Za tapotier esles anem estafataram." Unzen mununier eslas estafataram ate suroevier eslas estafataram de t'n tho suroevla rutar.
 4. Nanonier eslas, "Za tapotier esles bresdulam ate håzh brodåtam lubåtla hanaozhi raealam; ate za tapotier esles håt tapotevam eslesen aet nu eslesi esfetåtev nutho lubåt."
 5. Atoe zen båti Raedev ate jaruvier achlas bresdulam ate habrodåtam estdedeven.
-6. Zen nanoni anaudehoudev, "Jaruvia, eslasi an dehoudev ate mununier esles an nanonam; at tapotier esdedev lasam, za tapotier esdedev houal."
+6. Zen nanoni anaodehoudev, "Jaruvia, eslasi an dehoudev ate mununier esles an nanonam; at tapotier esdedev lasam, za tapotier esdedev houal."
 
 ## 1 Corinthians 13
 
