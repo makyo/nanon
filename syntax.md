@@ -1,9 +1,6 @@
 ---
-layout: plain
 title: Syntax
 ---
-
-# Syntax
 
 Throughout this section, the various parts of the grammar of Nanon would be described, along with small examples. The examples will talk about you, your dog, a friend named Joseph, and his dog. Not a terribly interesting storyline, but hopefully it'll explain the subjects of the section. This section assumes you've at least glanced at the [Morphology](/morphology) section.
 

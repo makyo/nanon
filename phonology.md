@@ -1,9 +1,6 @@
 ---
-layout: plain
 title: Phonology
 ---
-
-# Phonology
 
 ## Consonants and semivowels
 

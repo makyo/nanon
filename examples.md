@@ -1,9 +1,6 @@
 ---
-layout: plain
 title: Examples
 ---
-
-# Examples
 
 ## Babel text
 

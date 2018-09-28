@@ -1,9 +1,6 @@
 ---
-layout: plain
 title: Morphology
 ---
-
-# Morphology
 
 Words are constructed from roots with affixes.
 
